@@ -1,4 +1,4 @@
-# Point to Continuous Double Slit Diffraction Autoencoder
+# Point to Continuous: Double Slit Diffraction Autoencoder
 
 ## About
 <img width="1200" height="600" alt="slit-diffraction" src="https://github.com/user-attachments/assets/d06b35a2-0763-4b8e-a1b8-7c26638e18ff" />
