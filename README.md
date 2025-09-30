@@ -34,4 +34,4 @@ Download the model pre-trained for 30 epochs from mega.nz:
 
 ## Results
 
-Convergence reported as good during experiments.Final reported validation metric is 0.0149.
+Convergence reported as good during experiments. The final MSE is 0.0149.
