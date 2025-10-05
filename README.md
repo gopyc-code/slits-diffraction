@@ -1,6 +1,4 @@
 # Point to Continuous: Double Slit Diffraction Autoencoder
-
-## About
 <img width="1200" height="600" alt="slit-diffraction" src="https://github.com/user-attachments/assets/d06b35a2-0763-4b8e-a1b8-7c26638e18ff" />
 
 The repository contains code and data for translating noisy detector hits (discrete electron-impact coordinates) into smooth continuous diffraction patterns predicted by wave optics. The core idea is to train an autoencoder that denoises and converts a rasterised point-cloud image (what a detector registers) into a continuous intensity image (theoretical profile). This is useful for removing detector noise and recovering physically plausible continuous distributions from sparse point data.
